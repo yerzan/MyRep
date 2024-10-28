@@ -3,10 +3,10 @@
 //
 //int main() {
 //	int a, b;
-//	printf("Podaj liczbe 1: ");
+//	printf("Enter a first number: ");
 //	scanf_s("%d", &a);
 //
-//	printf("Podaj liczbe 2: ");
+//	printf("Enter a second number: ");
 //	scanf_s("%d", &b);
 //
 //	if (a > b) {
